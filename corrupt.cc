@@ -29,6 +29,6 @@ int main() {
     
   ostream wrfile;
   wrfile.open("window.vb");
-  wrfile << string_to_hex();
+  wrfile << string_to_hex(fileContents);
   wrfile.close();
 }
