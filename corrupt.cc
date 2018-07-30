@@ -24,7 +24,11 @@ int main() {
 
   ifstream opfile;
   opfile.open("window.vb");
-   
-
-// WORKING
+  opfile >> fileContents;
+  opfile.close();
+    
+  ostream wrfile;
+  wrfile.open("window.vb");
+  wrfile << string_to_hex();
+  wrfile.close();
 }
