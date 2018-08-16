@@ -4,7 +4,6 @@ Created with VS2017.
 
 ### Feautres
 * **HTTPS** supported.
-* In devlopment.
 
 ### Bugs
 * Uses old **Internet Explorer API**.
