@@ -1,5 +1,5 @@
 # Powerfire
-PowerFire is a light-weight web browser made in Visual Basic.<br/>
+PowerFire is a light-weight web browser.<br/>
 Created with VS2017.
 
 ### Feautres
