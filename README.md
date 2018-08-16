@@ -2,11 +2,11 @@
 PowerFire is a light web browser made in Visual Basic.<br/>
 Created with VS2017.
 
-## Feautres
+### Feautres
 * **HTTPS** supported.
 * In devlopment.
 
-## Bugs
+### Bugs
 * Uses old **Internet Explorer API**.
 * Glitching pages.
 * Bad **UI**.
