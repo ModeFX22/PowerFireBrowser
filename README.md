@@ -8,4 +8,4 @@ Created with VS2017.
 **IE** APIs supported | Glitches
 
 Donate us. <br/>
-**BTC:** `1FkvmcVBYRKF4GTHBMZ46LtJzSRM9LR6eG`.
+**BTC:** 1FkvmcVBYRKF4GTHBMZ46LtJzSRM9LR6eG
