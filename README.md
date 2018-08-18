@@ -10,7 +10,7 @@ Written in **Visual Basic** Language.
 
 ### Information
 Reporting a new issue will be ignored due to compiling issues. <br/>
-Don't open issues which are noted in **Cons** section.
+Don't open issues which are known already.
 
 ---------------
 Donate us. <br/>
