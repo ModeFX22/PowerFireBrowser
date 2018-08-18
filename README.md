@@ -9,7 +9,7 @@ Written in **Visual Basic** Language.
 **IE** APIs supported | Glitches
 
 ### Information
-Reporting a new issue will be ignored due to compiling issues. <br/>
+This Project is messed up. <br/>
 Don't open issues which are known already.
 
 ---------------
