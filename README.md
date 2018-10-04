@@ -1,7 +1,7 @@
 # Powerfire
 PowerFire is a light-weight web browser.<br/>
-Created with VS2017. <br/>
-Written in **Visual Basic** Language.
+Created with VS2017. (HAHA) <br/>
+Written in **Visual Basic** Language. (Really sucks)
 
 |Pros|Cons| 
 |--------|----|
